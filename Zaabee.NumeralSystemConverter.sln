@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3301816B-1635-43D7-A159-AD27E0DABCC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{8FA399EC-5669-4CAB-B259-6A6A7CE3375D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zaabee.NumeralSystemConverter", "src\Zaabee.NumeralSystemConverter\Zaabee.NumeralSystemConverter.csproj", "{074C07F0-E7EF-4EE2-BD4D-F9FE603164B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zaabee.NumeralSystemConverter.Test", "tests\Zaabee.NumeralSystemConverter.Test\Zaabee.NumeralSystemConverter.Test.csproj", "{BCBDA886-1795-47EB-9F90-692EDA93BD82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{074C07F0-E7EF-4EE2-BD4D-F9FE603164B1} = {3301816B-1635-43D7-A159-AD27E0DABCC7}
+		{BCBDA886-1795-47EB-9F90-692EDA93BD82} = {8FA399EC-5669-4CAB-B259-6A6A7CE3375D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074C07F0-E7EF-4EE2-BD4D-F9FE603164B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074C07F0-E7EF-4EE2-BD4D-F9FE603164B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074C07F0-E7EF-4EE2-BD4D-F9FE603164B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074C07F0-E7EF-4EE2-BD4D-F9FE603164B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBDA886-1795-47EB-9F90-692EDA93BD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBDA886-1795-47EB-9F90-692EDA93BD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBDA886-1795-47EB-9F90-692EDA93BD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBDA886-1795-47EB-9F90-692EDA93BD82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
