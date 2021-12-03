@@ -6,7 +6,6 @@ public enum NumeralSystem : byte
     Octal = 8,
     Decimalism = 10,
     Hexadecimal = 16,
-    Duotricemary = 32,
-    ThirtySixAry = 36,
-    SixtyTwoAry = 62
+    Base36 = 36,
+    Base62 = 62
 }
