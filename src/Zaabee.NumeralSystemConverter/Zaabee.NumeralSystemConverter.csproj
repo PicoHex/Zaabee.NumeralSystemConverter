@@ -3,13 +3,13 @@
     <PropertyGroup>
         <TargetFrameworks>netstandard2.0;netcoreapp3.1;net5.0;net6.0</TargetFrameworks>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <PackageVersion>2022.1.0</PackageVersion>
-        <Version>2022.1.0</Version>
+        <PackageVersion>2022.2.0</PackageVersion>
+        <Version>2022.2.0</Version>
         <Authors>Mutuduxf</Authors>
         <Company>Mutuduxf</Company>
         <PackageTags>Zaabee;Extensions;Numeral System Converter;Binary;Octal;Decimalism;Hexadecimal;Base36;Base62</PackageTags>
         <Description>Numeral System Converter for C#</Description>
-        <PackageProjectUrl>https://github.com/Mutuduxf/Zaabee.NumeralSystemConverter</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/PicoHex/Zaabee.NumeralSystemConverter</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Nullable>enable</Nullable>
         <LangVersion>latest</LangVersion>
